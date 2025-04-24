@@ -25,5 +25,3 @@ if __name__ == "__main__":
         ),
     )
     celery_app = celery_init_app(app)
-
-set
